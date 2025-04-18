@@ -1,4 +1,5 @@
 📝 Gestor de Tareas con Tkinter
+
 Este proyecto es una aplicación gráfica de escritorio desarrollada en Python utilizando la biblioteca Tkinter. Permite a los usuarios gestionar sus tareas de manera intuitiva, con funcionalidades como agregar, marcar como completadas, eliminar tareas y más.
 🚀 Características
 - Interfaz gráfica amigable: Diseño limpio y organizado con Tkinter y ttk.Style.
